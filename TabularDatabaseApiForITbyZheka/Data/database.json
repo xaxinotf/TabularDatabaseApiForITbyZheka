@@ -1,0 +1,28 @@
+{
+  "Databases": [
+    {
+      "Name": "CompanyDB",
+      "Tables": []
+    },
+    {
+      "Name": "CompanyDB1",
+      "Tables": [
+        {
+          "Name": "test3",
+          "Columns": [
+            {
+              "Name": "UpdatedContractPeriod",
+              "DataType": "$Invl",
+              "MaxMoney": null,
+              "Interval": {
+                "Start": 1000.00,
+                "End": 5000.00
+              }
+            }
+          ],
+          "Rows": []
+        }
+      ]
+    }
+  ]
+}

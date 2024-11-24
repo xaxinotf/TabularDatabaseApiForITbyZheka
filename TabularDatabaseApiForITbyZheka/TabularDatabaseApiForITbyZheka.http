@@ -1,0 +1,6 @@
+@TabularDatabaseApiForITbyZheka_HostAddress = http://localhost:5161
+
+GET {{TabularDatabaseApiForITbyZheka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
